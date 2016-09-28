@@ -63,7 +63,7 @@ func toKhDay(_ days:String)->String{
     let day = "ថ្ងៃ"
     switch days {
     case "Mon":
-        return day+"ច៍ន្ទ"
+        return day+"ច័ន្ទ"
     case "Tue":
         return day+"អង្គារ"
     case "Wed":
